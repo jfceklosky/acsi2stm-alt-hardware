@@ -5,7 +5,7 @@ Alternate PCB designs for the acsi2stm using a db-19 or and IDC-20 connector
   
   - **idc20**: contains the EasyEDA schmeatics and PCB layout for the IDC20 board
   
-  - **gerbers**: contains various standard generated PCB gerber files as zip files, fully printable
+  - **gerbers**: contains various standard generated PCB gerber files as zip files
 
 # Description
 The db19 uses soldered in pins that will plug into the Atari ST's DMA port while the IDC-20 uses and Ultrasatan style IDC-20 and ribbon cable to connect to the ST's DMA port.  
