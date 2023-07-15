@@ -2,7 +2,9 @@
 Alternate PCB designs for the acsi2stm using a db-19 or and IDC-20 connector
 
   db19:   contains the EasyEDA schematics and PCB layout for the DB19 board
+  
   idc20:  contains the EasyEDA schmeatics and PCB layout for the IDC20 board
+  
   gerber: contains various standard generated PCB gerber files
 
 # Description
