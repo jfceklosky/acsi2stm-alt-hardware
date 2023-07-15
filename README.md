@@ -1,5 +1,5 @@
-# acsi2stm-alt-idc20
-Alternate PCB design for the acsi2stm using IDC-20
+# acsi2stm-alt-hardware
+Alternate PCB designs for the acsi2stm using db-19 and IDC-20
 
 # Description
 This board can be used with the software from this project:
