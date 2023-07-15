@@ -16,5 +16,14 @@ These boards can be used with the software from this project:
   https://github.com/retro16/acsi2stm
 Versions 3.X and 4.X will work.
 
-# Build
+# Building
 The gerbers can be used with various PCB manufacturers like JLBPCB, PCBway, and others.
+
+Part links:
+
+# Board Images
+**DB19** 
+![db19_image](images/db19.png)
+
+**IDC20**
+![idc20 image](images/idc20.png)
