@@ -36,6 +36,7 @@ Links to a source for each of the major components:
 | IDC 20 Male | https://www.amazon.com/uxcell-16-Pin-Straight-Connector-Sockets/dp/B010V43ACO/ref=sr_1_4?crid=1G2HM3EDUJ1RP&keywords=idc+20+male+solder+in&qid=1689535789&s=electronics&sprefix=idc+20+male+solder+in%2Celectronics%2C99&sr=1-4} |
 | Pin Headers | https://www.amazon.com/gp/product/B07VNXL5BD/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 |
 | CR 2032 | https://www.amazon.com/Panasonic-CR2032-Volt-Lithium-Batteries/dp/B0829NZVN8/ref=sr_1_6?crid=108UA8F1HP30V&keywords=cr+2032&qid=1689536478&s=electronics&sprefix=cr+2032%2Celectronics%2C94&sr=1-6 |
+| Round Header M/F pins | https://www.amazon.com/gp/product/B07BS126FK/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1 |
 
 
 # Board Images
