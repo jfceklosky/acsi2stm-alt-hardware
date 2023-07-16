@@ -1,9 +1,9 @@
 # acsi2stm-alt-hardware
 Alternate PCB designs for the acsi2stm using a db-19 or and IDC-20 connector
 
-  - **db19**: contains the EasyEDA schematics and PCB layout for the DB19 board
+  - **db19**: contains the EasyEDA schematics, schematic pdf, and PCB layout for the DB19 board
   
-  - **idc20**: contains the EasyEDA schmeatics and PCB layout for the IDC20 board
+  - **idc20**: contains the EasyEDA schmeatics, schematic pdf, and PCB layout for the IDC20 board
   
   - **gerbers**: contains various standard generated PCB gerber files as zip files
 
@@ -14,6 +14,7 @@ The db19 uses soldered in pins that plug into the Atari ST's DMA port while the 
 
 These boards can be used with the software from this project:
   https://github.com/retro16/acsi2stm
+  
 Versions 3.X and 4.X will work.
 
 The Ultrasatan style board can be found here:  https://github.com/jfceklosky/idc2ribbon
@@ -23,10 +24,10 @@ The gerbers can be used with various PCB manufacturers like JLBPCB, PCBway, and 
 
 Links to a source for each of the major components:
 
-|Part     | Source link |
-|---------|--------------------------------------------------|
+|Part           | Source link |
+|---------------|--------------------------------------------|
 | SD card | https://www.amazon.com/gp/product/B08CMLG4D6/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1 |
-| Blue Pill | https://www.amazon.com/gp/product/B07VKSVM21/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1 |
+| STM32 Blue Pill | https://www.amazon.com/gp/product/B07VKSVM21/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1 |
 | Battery Holder | https://www.digikey.com/en/products/detail/mpd-memory-protection-devices/BS-7/389447 |
 | DB19 Pins | https://www.digikey.com/en/products/detail/mill-max-manufacturing-corp/9103-0-00-80-00-00-08-0/7322902|
 | db-25 Female (must cut down) | https://www.digikey.com/en/products/detail/norcomp-inc/171-025-213R001/858148 |
