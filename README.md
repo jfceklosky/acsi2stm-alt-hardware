@@ -24,7 +24,7 @@ The gerbers can be used with various PCB manufacturers like JLBPCB, PCBway, and 
 
 Links to a source for each of the major components:
 
-|Part           | Source link |
+|Parts           | Source links |
 |---------------|--------------------------------------------|
 | SD card | https://www.amazon.com/gp/product/B08CMLG4D6/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1 |
 | STM32 Blue Pill | https://www.amazon.com/gp/product/B07VKSVM21/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1 |
