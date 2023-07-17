@@ -1,16 +1,16 @@
 # acsi2stm-alt-hardware
-Alternate PCB designs for the acsi2stm using a db-19 or and IDC-20 connector
+Alternate PCB designs for the acsi2stm using a DB-19 or and IDC-20 connector
 
-  - **db19**: contains the EasyEDA schematics, schematic pdf, and PCB layout for the DB19 board
+  - **db19**: contains the EasyEDA schematics, schematic pdf, and PCB layout for the DB-19 board
   
-  - **idc20**: contains the EasyEDA schmeatics, schematic pdf, and PCB layout for the IDC20 board
+  - **idc20**: contains the EasyEDA schmeatics, schematic pdf, and PCB layout for the IDC-20 board
   
   - **gerbers**: contains various standard generated PCB gerber files as zip files
 
   - **images**: renders of each of the boards
 
 # Description
-The db19 uses soldered in pins that plug into the Atari ST's DMA port while the IDC-20 uses and Ultrasatan style IDC-20 and ribbon cable to connect to the ST's DMA port.  
+The db19 uses soldered in pins that plug into the Atari ST's DMA port while the idc20 uses and Ultrasatan style IDC-20 and ribbon cable to connect to the ST's DMA port.  
 
 These boards are designed and tested to work with the software from this project:
   https://github.com/retro16/acsi2stm
