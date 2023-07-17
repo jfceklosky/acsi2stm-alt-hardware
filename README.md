@@ -1,5 +1,5 @@
 # acsi2stm-alt-hardware
-Alternate PCB designs for the acsi2stm using a DB-19 or and IDC-20 connector
+Alternate PCB designs for the acsi2stm using a DB-19 or and IDC-20 connector.  Both boards use all through hole design components for easy self builds.
 
   - **db19**: contains the EasyEDA schematics, schematic pdf, and PCB layout for the DB-19 board
   
