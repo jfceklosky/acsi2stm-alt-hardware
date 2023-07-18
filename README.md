@@ -10,7 +10,7 @@ Alternate PCB designs for the acsi2stm using a DB-19 or and IDC-20 connector.  B
   - **images**: renders of each of the boards
 
 # Description
-The db19 uses soldered in pins that plug into the Atari ST's DMA port while the idc20 uses and Ultrasatan style IDC-20 and ribbon cable to connect to the ST's DMA port.  
+The db19 uses soldered in pins that plug into the Atari ST's DMA port while the idc20 uses and Ultrasatan style IDC-20 and ribbon cable to connect to the ST's DMA port.  The db19 version is designed so that it does not block any of the ports on the back the ST.  
 
 These boards are designed and tested to work with the software from this project:
   https://github.com/retro16/acsi2stm
