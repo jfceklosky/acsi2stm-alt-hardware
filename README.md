@@ -20,7 +20,7 @@ Versions 3.X and 4.X of acsi2stm will work with both of these boards.
 The Ultrasatan style board can be found here:  https://github.com/jfceklosky/idc2ribbon
 
 # Building
-The gerbers can be used with various PCB manufacturers like JLBPCB, PCBWay, and others.
+The gerbers can be used with mand of the various PCB manufacturers like JLCPCB, PCBWay, and others.
 
 Links to a source for each of the major components:
 
